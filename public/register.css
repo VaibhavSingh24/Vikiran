@@ -1,0 +1,40 @@
+.sec1{
+	background: silver;
+}
+.img{
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+}
+.image{
+	height: 90vh;
+	width: 70vh;
+}
+.tag{
+	padding-left: 15vh;
+	padding-right: 15vh;
+	padding-top: 15vh;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 40px;
+
+}
+.tag2{
+	padding-left: 15vh;
+	padding-right: 15vh;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 20px;
+	padding-bottom: 3vh;
+}
+.input{
+	padding-left: 15vh;
+	padding-right: 15vh;
+	font-family: 'Varela Round', sans-serif;
+	padding-bottom: 1vh;
+}
+.btn1{
+	background-color: #ff0029;
+	border:0px;
+	color:white;
+	width: 200px;
+	font-family: 'Varela Round', sans-serif;
+	height:50px;
+}

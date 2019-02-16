@@ -1,0 +1,86 @@
+.first{
+	background: url("graf8.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+.tag{
+	padding-top: 10vh;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 70px;
+	color: #5d0034;
+	font-weight: bold;
+}
+.tag2{
+	padding-top: 1vh;
+	padding-bottom: 2vh;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 30px;
+	color: white;
+
+}
+.tag3{
+	padding-bottom: 25vh;
+}
+.brand{
+	font-size: 4vh;
+	font-family: 'Monoton', cursive;
+	color:white;
+}
+.navbar{
+	background: rgba(0,0,0,0.7);
+}
+.btn1{
+	background-color: #ff0029;
+	border:0px;
+	color:white;
+	width: 200px;
+	font-family: 'Varela Round', sans-serif;
+	height:50px;
+}
+.content{
+	padding-top: 1vh;
+	font-weight: bold;
+
+}
+.promo{
+	padding-bottom: 2vh;
+}
+.avatar{
+	height: 170px;
+	width: 170px;
+}
+.pad{
+	padding-top: 5vh;
+}
+.pad2{
+	padding-top: 2vh;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 25px;
+	padding-bottom: 2vh;
+
+}
+.image{
+	height: 30vh;
+	width:30vh;
+}
+
+
+
+
+
+.fifth{
+	font-family: 'Varela Round', sans-serif;
+	color:black;
+	background-color:#efeff0;
+}
+.align2{
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+
+}
+.dtc{
+	height:130px;
+	width:130px;
+	border-radius: 50%;
+}

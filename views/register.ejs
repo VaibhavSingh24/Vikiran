@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="register.css">
+</head>
+<body>
+	<div class="row">
+		<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 text-center sec1">
+			<div class="img">
+				<img class="image" src="clodes1.png">
+			</div>
+		</div>
+
+		<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12  sec2">
+			<div class="tag">
+				Please register.
+			</div>
+			<div class="tag2">
+				These information are required for Registration Purpose.
+			</div>
+			<form action="/register" method="POST">
+				<div class="input">
+				<input type="text" name="name" placeholder="Name" class="form-control" required="">
+				</div>
+				<br>
+				<div class="input">
+				<input type="number" name="phone" placeholder="Phone no." class="form-control" required="">
+				</div>
+				<br>
+				<div class="input">
+				<input type="text" name="course" placeholder="Course" class="form-control" required="">
+				</div>
+				<br>
+				<div class="input">
+				<input type="number" name="semester" placeholder="Semester"class="form-control" required="">
+				</div>
+				<br>
+				<div class="input">
+				<input type="e-mail" name="email" placeholder="E-mail" class="form-control" required="">
+				</div>
+				<br>
+				<div class="input">
+				<input type="checkbox" name="" required="">
+				I hereby declare that i will follow all the rules of the event I am enrolling in and the Judgement of Judges will be final and irrevocable.
+				</div>
+				<br>
+				<div class="input">
+				<button class="btn1 form-control d-flex justify-content-center">Register</button>
+				</div>
+				<br>
+				<div class="input text-center">
+					Do not want to Register? <a href="/event"> Go Back! </a>
+				</div>
+				
+
+			</form>
+		</div>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,183 @@
+.first{
+	    background-image: url("bg8.jpg");
+	    color:white;
+	    background-size: cover;
+	    background-position: center;
+	    background-repeat: no-repeat;
+}
+.brand{
+	font-size: 4vh;
+	font-family: 'Monoton', cursive;
+}
+.navbar{
+	background: rgba(0,0,0,0.7);
+}
+
+
+
+.title{
+	padding-top: 25vh;
+	color: white;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+}
+.tag{
+	font-family: 'Varela Round', sans-serif;
+	padding-bottom:5vh;
+	font-size: 20px;
+}
+.btn1{
+	background-color: #ff0029;
+	border:0px;
+	color:white;
+	width: 200px;
+	font-family: 'Varela Round', sans-serif;
+	height:50px;
+}
+.btn2{
+	background-color:white;
+	font-family: 'Varela Round', sans-serif;
+	width:200px;
+	border:0px;
+	height:50px;
+}
+.first-row{
+	padding-bottom: 25vh;
+}
+
+
+ /* SECOND SECTION */
+
+
+
+.second{
+	padding-top: 10vh;
+	font-family: 'Varela Round', sans-serif;
+	background:;
+}
+.tag2{
+	padding-top: 5vh;
+	font-size: 30px;
+}
+.tag3{
+	padding-top: 1vh;
+	font-size: 20px;
+}
+.avatar{
+	height:122px;
+	width:122px;
+}
+.content{
+	padding-top: 1vh;
+	font-weight: bold;
+
+}
+.promo{
+	padding-bottom: 2vh;
+}
+.content2{
+	padding-bottom: 10vh;
+}
+.align1{
+	padding-bottom: 7vh;
+}
+.gal-btn{
+	font-family: 'Varela Round', sans-serif;
+	font-weight: bold;
+	background-color: #ff2f50;
+	width: 150px;
+	border:0px;
+	height: 40px;
+	color: white;
+}
+.org-btn{
+	font-family: 'Varela Round', sans-serif;
+	font-weight: bold;
+	background-color: #b8cad6;
+	width: 150px;
+	border:0px;
+	height: 40px;
+	color: black;
+}
+.win-btn{
+	font-family: 'Varela Round', sans-serif;
+	font-weight: bold;
+	background-color: #f9901c;
+	width: 150px;
+	border:0px;
+	height: 40px;
+	color: black;
+}
+.about-btn{
+	font-family: 'Varela Round', sans-serif;
+	font-weight: bold;
+	background-color: #510096;
+	width: 200px;
+	border:0px;
+	height: 40px;
+	color: white;
+}
+
+
+
+/*THIRD SECTION */
+
+.third{
+	background:#ff0029;
+	font-family: 'Varela Round', sans-serif;
+	color:white;
+}
+.register{
+	padding-top: 10vh;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+.btn3{
+	background-color:white;
+	font-family: 'Varela Round', sans-serif;
+	width:150px;
+	border:0px;
+	height:35px;
+	color:#ff0029;
+	font-weight: bold;
+}
+.regis2{
+	padding-bottom: 3vh;
+}
+.regis3{
+	padding-bottom: 10vh;
+	padding-top: 2vh;
+}
+
+ /* FOURTH SECTION */
+
+.fourth{
+	font-family: 'Varela Round', sans-serif;
+	background:white;
+	height:50vh;
+}
+.sponsor{
+	color:black;
+	padding-top: 5vh;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+/* FIFTH SECTION */
+.fifth{
+	font-family: 'Varela Round', sans-serif;
+	color:black;
+	background-color:#efeff0;
+}
+.align2{
+	padding-top: 3vh;
+	padding-bottom: 3vh;
+
+}
+.dtc{
+	height:130px;
+	width:130px;
+	border-radius: 50%;
+}

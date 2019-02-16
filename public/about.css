@@ -1,0 +1,51 @@
+.brand{
+	color:white;
+	font-size: 4vh;
+	font-family: 'Monoton', cursive;
+}
+.navbar{
+	background: rgba(0,0,0,0.7);
+}
+img{
+	height: 250px;
+	width:250px;
+	border-radius: 50%;
+}
+.sec1{
+}
+.img-align{
+	padding-top:35vh; 
+}
+.sec2{
+	font-family: 'Varela Round', sans-serif;
+	font-size: 25px;
+	color:white;
+	background: #211e38;
+	padding-top: 25vh;
+	height: 100vh;
+}
+h1{
+	color:#ff0029;
+}
+.btn1{
+	background-color: #ff0029;
+	border:0px;
+	color:white;
+	width: 200px;
+	font-family: 'Varela Round', sans-serif;
+	height:50px;
+}
+.btn2{
+	background-color:white;
+	font-family: 'Varela Round', sans-serif;
+	width:200px;
+	border:0px;
+	height:50px;
+}
+.sec3{
+	padding-top: 5vh;
+}
+.what{
+	color:#ff0029;
+	font-size: 30px;
+}
